@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Haseeb Ahmed!
 
+## SQA Engineer | Automation & Quality Ownership
 
-**🚀 SQA Engineer | Automation & Quality Ownership
 
 I am a results-driven Software Quality Assurance Engineer with 1+ year of experience specializing in building robust, scalable test automation solutions and ensuring data integrity for complex web and telecom dashboard systems. Passionate about defect prevention and optimizing the software development lifecycle (SDLC) within Agile/Scrum environments.
 
