@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Haseeb Ahmed!
 
-<!--
+
 **🚀 SQA Engineer | Automation & Quality Ownership
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
