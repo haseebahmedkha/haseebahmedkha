@@ -1,68 +1,87 @@
-## ⭐ Hi 👋, I’m Haseeb Ahmed
+<h2 align="left">Hi there 👋 I'm Haseeb Ahmed!</h2>
 
-A dedicated SQA Engineer ensuring software quality through manual & automation testing.
+###
 
-## 🚀 About Me
+<p align="left">🚀 SQA Engineer | Full-Stack QA & Automation Specialist<br><br>A results-driven Software Quality Assurance Engineer with 1+ year of hands-on experience in Manual, Automation, and API testing. I specialize in full-cycle QA, from test planning and design (functional, regression, E2E) to building robust automation frameworks using Python (PyTest) and Java (TestNG), and driving efficiency through CI/CD integration.</p>
 
-🔍 I’m currently working on testing web applications, telecom analytics dashboards, and cloud-based platforms.
+###
 
-🧪 I have hands-on experience with Functional, Regression, Smoke, Sanity, API testing, and SQL validation.
+<h3 align="left">🔑 Professional Highlights & Expertise</h3>
 
-🤖 I also practice Automation Testing using Selenium (Python), PyTest, Page Object Model, and Jenkins CI/CD.
+###
 
-📱 Exploring real-time systems, data validation, API flows, and automation frameworks to enhance test efficiency.
+<p align="left">Full-Cycle Manual QA: Experienced in all phases of the STLC/SDLC, including comprehensive Manual Testing, test case design, execution of functional, regression, E2E, and UI testing, and robust defect management using JIRA.<br><br>Automation Frameworks: Designed and implemented scalable automation solutions using Java (TestNG, POM) and Python (PyTest), driving reduced manual effort and rapid release cycles.<br><br>System Validation: Performed rigorous backend verification through API testing (Postman) and executed complex data validation efforts using advanced SQL queries (Hadoop/Carbon DB) to verify real-time KPI accuracy.<br><br>Process Efficiency: Integrated automation tests into the Jenkins CI/CD pipeline. Expert in Agile/Scrum methodologies, ensuring timely and defect-free deployments.</p>
 
-📘 Strong understanding of SDLC, STLC, Agile/Scrum, and test documentation.
+###
 
-🔧 Actively improving skills in OOP, data structures, REST APIs, and UI Automation.
+<h3 align="left">📊 Real-World Validation Experience</h3>
 
-📬 Open to QA roles where I can contribute to high-quality releases and scalable testing processes.
+###
 
+<p align="left">Highlighting experience with complex data, ETL processes, and dashboard validation derived from telecom projects:<br><br>KPI Accuracy Validation: Specialized in verifying the accuracy of crucial Key Performance Indicators (KPIs) for telecom services (e.g., Jazz VoWiFi) using SQL queries against Hadoop/Carbon DB.<br><br>Monitoring Dashboard QA: Led validation of real-time monitoring dashboards, including ETL validation and backend data checks to ensure data integrity and dashboard reliability (e.g., Pakistan Jazz VoWiFi, Brazil Vivo Traffic KPIs).<br><br>Data Record Validation: Experience validating source data records (SDR and XDR data) and corresponding backend logs for high-volume traffic dashboards.</p>
 
-## 🛠️ Skills and Badges
-Testing
+###
 
-✔ Manual Testing
-✔ Automation Testing (Selenium + Python)
-✔ API Testing (Postman)
-✔ Test Case Writing
-✔ Bug Reporting (Jira)
-✔ SQL Validation
+<h3 align="left">💡 About Me & Goals</h3>
 
+###
 
-## 💻 Core Expertise & Tech Stack
+<p align="left">🔭 Currently Focused: Developing a complete CI/CD pipeline for my automation portfolio and ensuring SQL data validation precision.<br><br>🌱 Learning Path: Advanced Android Development and deepening expertise in ETL Validation techniques for large-scale data systems.<br><br>👯 Seeking Collaboration: Innovative automation projects focused on backend verification and achieving high reliability.<br><br>💬 Ask Me About: SQL validation for critical KPIs, TestNG/PyTest framework design, or how to integrate Jenkins with your automation suite.<br><br>⚡ Fun Fact: I hold the ISTQB Foundation Level certification, confirming my strong grasp of software quality best practices.</p>
 
+###
 
-Automation: 
-Python (PyTest), Java (TestNG, Maven, POM), Selenium WebDriver. Focus on Functional, Regression, E2E Testing, and CI/CD with Jenkins.
+<h3 align="left">Languages and Tools</h3>
 
-Data & API: Expertise in SQL (Hadoop, Carbon DB) for Data Validation, and comprehensive API Testing using Postman for backend verification.
+###
 
-QA & Process: Proficient in Agile/Scrum methodologies, JIRA, TestRail, Git, and the full Software Test Life Cycle (STLC).
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
-Foundational Concepts: Strong understanding of OOP, Data Structures, and Algorithms.
+###
 
+<h4 align="left">Connect Me on.</h4>
 
-## 🌟 Professional Highlights
-Automation: Developed and maintained automated regression frameworks using Selenium with Python and Java, significantly reducing repetitive manual efforts.
+###
 
-Data Integrity: Expert in performing SQL-based data validation in large-scale databases (Hadoop/Carbon DB) to ensure the accuracy of critical telecom KPIs and KQIs.
+<div align="left">
+  <a href="https://www.linkedin.com/in/haseeb-ahmed-437a00186/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
-System Validation: Executed comprehensive API testing using Postman to verify backend responses and maintain data consistency across systems.
+###
 
-Agile Collaboration: Successfully collaborated with cross-functional development and product teams in Agile sprints, taking ownership of test documentation and release validation.
+<h6 align="left">How to Contact Me.<br>Gmail : Haseebahmed.sqa.eng@gmail.com<br>Contact #: +923118166880</h6>
 
-## 📚 Featured Projects
-
-OrangeHRM Automation: Developed a complete automation framework using Java, Selenium, TestNG, Maven, and POM for continuous integration (CICD) via Jenkins.
-
-nopCommerceApp Automation: Implemented a data-driven automation solution using Python, Selenium, and PyTest with CICD integration (Jenkins).
-
-Telecom KPI Validation: Extensive experience in KPI accuracy validation for projects like the Jazz VoWiFi eNodeB & gNodeB KPI Testing, involving complex SQL queries and ETL validation.
-
-
-## 📫 Connect with Me
-You can reach out or follow my work here:
-
-Always focused on quality ownership and shipping reliable code.
-
+###
