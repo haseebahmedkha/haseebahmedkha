@@ -3,7 +3,7 @@
 
 **🚀 SQA Engineer | Automation & Quality Ownership
 
-Here are some ideas to get you started:
+I am a results-driven Software Quality Assurance Engineer with 1+ year of experience specializing in building robust, scalable test automation solutions and ensuring data integrity for complex web and telecom dashboard systems. Passionate about defect prevention and optimizing the software development lifecycle (SDLC) within Agile/Scrum environments.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
