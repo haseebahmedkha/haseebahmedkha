@@ -31,7 +31,7 @@ I specialise in building scalable test frameworks — not just writing test scri
 |---|---|
 | **Live Test Report** | 👉 [View Allure Report](https://haseebahmedkha.github.io/automation-exercise-portfolio/8/index.html#) |
 | **Source Code** | 👉 [GitHub Repository](https://github.com/haseebahmedkha/automation-exercise-portfolio) |
-| **CI Status** | ![CI](https://github.com/haseebahmedkha/automation-exercise-portfolio/actions) |
+| **CI Status** | 👉 [CI](https://github.com/haseebahmedkha/automation-exercise-portfolio/actions) |
 
 **What I built:**
 
