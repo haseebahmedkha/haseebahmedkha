@@ -31,7 +31,7 @@ I specialise in building scalable test frameworks — not just writing test scri
 |---|---|
 | **Live Test Report** | 👉 [View Allure Report](https://haseebahmedkha.github.io/automation-exercise-portfolio/8/index.html#) |
 | **Source Code** | 👉 [GitHub Repository](https://github.com/haseebahmedkha/automation-exercise-portfolio) |
-| **CI Status** | ![CI](https://github.com/YOUR-USERNAME/automation-exercise-portfolio/actions/workflows/playwright.yml/badge.svg) |
+| **CI Status** | ![CI](https://github.com/haseebahmedkha/automation-exercise-portfolio/actions) |
 
 **What I built:**
 
@@ -111,14 +111,6 @@ What I believe about good test automation:
 ✓ CI/CD is not optional           — if it's not in the pipeline, it doesn't exist
 ✓ Documentation completes the work — test plan + test cases + reference guide
 ```
-
----
-
-## 📊 GitHub Stats
-
-![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true)
-
----
 
 ## 📫 Let's Connect
 
