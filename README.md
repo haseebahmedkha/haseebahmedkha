@@ -29,13 +29,13 @@ I specialise in building scalable test frameworks — not just writing test scri
 
 | | |
 |---|---|
-| **Live Test Report** | 👉 [View Allure Report](https://YOUR-USERNAME.github.io/automation-exercise-portfolio/) |
-| **Source Code** | 👉 [GitHub Repository](https://github.com/YOUR-USERNAME/automation-exercise-portfolio) |
+| **Live Test Report** | 👉 [View Allure Report](https://haseebahmedkha.github.io/automation-exercise-portfolio/8/index.html#) |
+| **Source Code** | 👉 [GitHub Repository](https://github.com/haseebahmedkha/automation-exercise-portfolio) |
 | **CI Status** | ![CI](https://github.com/YOUR-USERNAME/automation-exercise-portfolio/actions/workflows/playwright.yml/badge.svg) |
 
 **What I built:**
 
-✅ **47 automated tests** — UI, API, E2E, and Hybrid  
+✅ **50 automated tests** — UI, API, E2E, and Hybrid  
 ✅ **Page Object Model** — 8 page classes, custom fixtures, TypeScript strict mode  
 ✅ **API Testing** — 14 REST endpoints, CRUD lifecycle, schema validation  
 ✅ **Hybrid Pattern** — API setup + UI verification (25x faster than UI-only setup)  
@@ -84,16 +84,16 @@ UI Tests (30)         API Tests (17)
 
 ## 💼 Professional Experience
 
+### QA / Technical Quality Role — Al Ghazi Travel *(Oct 2024 – Present)*
+- Functional and regression testing of internal web-based systems
+- Test case design, defect logging, and verification
+
 ### QA Engineer — Huawei *(Feb 2024 – Aug 2024)*
 - Designed and executed test plans for telecom applications
 - Performed security testing, integration testing, and functional testing
 - Specialised in KPI accuracy validation using SQL against Hadoop/Carbon DB
 - Validated real-time monitoring dashboards for Jazz VoWiFi and Brazil Vivo Traffic
 - Managed defects using Huawei DTS bug tracking system
-
-### QA / Technical Quality Role — Al Ghazi Travel *(Oct 2024 – Present)*
-- Functional and regression testing of internal web-based systems
-- Test case design, defect logging, and verification
 
 ### SQA Intern — URRAAN *(Apr 2019 – Jun 2019)*
 - Manual testing, test case writing, bug reporting, API testing with Postman
@@ -128,9 +128,9 @@ If your team uses Playwright, Selenium, or any modern automation stack — I'd l
 
 | | |
 |---|---|
-| 📧 Email | haseebahmed434@gmail.com |
+| 📧 Email | haseebahmed.sqa.eng@gmail.com |
 | 💼 LinkedIn | [linkedin.com/in/haseeb-ahmed-437a00186](https://www.linkedin.com/in/haseeb-ahmed-437a00186/) |
-| 📱 Phone | +923118166880 |
+| 📱 Phone | +92-306-3163646 |
 | 🌍 Location | Islamabad, Pakistan — Open to Remote |
 
 <h3 align="left">Languages and Tools</h3>
