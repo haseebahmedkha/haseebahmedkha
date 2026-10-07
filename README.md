@@ -2,7 +2,7 @@
 
 ### SQA Engineer | Playwright · TypeScript · API Testing | CI/CD · GitHub Actions | Open to Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/haseebahmed-sqa/](https://www.linkedin.com/in/haseeb-ahmed-sqa/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/haseeb-ahmed-sqa/?isSelfProfile=true)
 [![Test Report](https://img.shields.io/badge/Live_Test_Report-Allure-brightgreen)](https://haseebahmedkha.github.io/automation-exercise-portfolio/8/index.html)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:haseebahmed.sqa.eng@gmail.com)
 
@@ -29,7 +29,7 @@ SQA Engineer with industry experience at Huawei (telecom analytics testing) and 
 
 **What I built**
 
-- ✅ **[X] automated tests**: UI, API, E2E and hybrid
+- ✅ **automated tests**: UI, API, E2E and hybrid
 - ✅ **Page Object Model**: 8 page classes, custom fixtures, TypeScript strict mode
 - ✅ **API testing**: REST endpoints, CRUD lifecycle, schema validation
 - ✅ **Hybrid pattern**: API setup plus UI verification for faster tests
@@ -96,6 +96,6 @@ SQA Engineer with industry experience at Huawei (telecom analytics testing) and 
 
 ## Contact
 
-📧 haseebahmed.sqa.eng@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/haseebahmed-sqa) · 📍 Islamabad, Pakistan (open to remote)
+📧 haseebahmed.sqa.eng@gmail.com · 💼 [LinkedIn]((https://www.linkedin.com/in/haseeb-ahmed-sqa/?isSelfProfile=true)) · 📍 Islamabad, Pakistan (open to remote)
 
 
