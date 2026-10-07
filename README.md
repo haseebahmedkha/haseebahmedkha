@@ -2,7 +2,7 @@
 
 ### SQA Engineer | Playwright · TypeScript · API Testing | CI/CD · GitHub Actions | Open to Work
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/haseebahmed-sqa](https://www.linkedin.com/in/haseeb-ahmed-sqa/?isSelfProfile=true))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/haseebahmed-sqa/](https://www.linkedin.com/in/haseeb-ahmed-sqa/?isSelfProfile=true))
 [![Test Report](https://img.shields.io/badge/Live_Test_Report-Allure-brightgreen)](https://haseebahmedkha.github.io/automation-exercise-portfolio/8/index.html)
 [![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:haseebahmed.sqa.eng@gmail.com)
 
